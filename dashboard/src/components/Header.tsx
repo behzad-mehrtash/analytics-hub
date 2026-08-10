@@ -43,6 +43,9 @@ export function Header({
   }
 
   const latestStats = dataset.repoStats[dataset.repoStats.length - 1];
+  const deploymentRepositoryUrl =
+    import.meta.env.VITE_DEPLOYMENT_REPOSITORY_URL ??
+    "https://github.com/behzad-mehrtash/analytics-hub";
 
   return (
     <header className="relative z-10">
@@ -179,7 +182,7 @@ export function Header({
 
                     {/* Open GitHub Actions */}
                     <a
-                      href="https://github.com/AmirhosseinDehghanazar/analytics-hub/actions/workflows/collect.yml"
+                      href={`${deploymentRepositoryUrl}/actions/workflows/collect.yml`}
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={() => setSyncMenuOpen(false)}

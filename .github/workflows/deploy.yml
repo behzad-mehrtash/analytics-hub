@@ -54,6 +54,7 @@ jobs:
         working-directory: dashboard
         env:
           VITE_BASE_PATH: /${{ github.event.repository.name }}/
+          VITE_DEPLOYMENT_REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
         run: npm run build -- --base="$VITE_BASE_PATH"
 
       - name: Upload Pages artifact

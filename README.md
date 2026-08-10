@@ -25,6 +25,21 @@
 
 ---
 
+> [!IMPORTANT]
+> **Attribution and deployment status:** This repository is Behzad Mehrtash's
+> personal deployment of **Analytics Hub**, which was created by
+> [Amirhossein Dehghanazar](https://github.com/AmirhosseinDehghanazar). I did
+> not create the original software. I cloned and configured the
+> [original project](https://github.com/AmirhosseinDehghanazar/analytics-hub)
+> to collect analytics for my own public repositories. The original code is
+> used under its [MIT License](LICENSE), and Amirhossein Dehghanazar retains
+> the original copyright.
+
+See [Attribution and local changes](#-attribution-and-local-changes) for the
+exact relationship between this deployment and the upstream project.
+
+---
+
 ## ✦ What is Analytics Hub?
 
 Repository providers like GitHub and GitLab limit traffic retention windows or omit long-term historical analytics archives.
@@ -248,6 +263,33 @@ Historical datasets are saved as version-controlled JSON files under `data/`:
 
 ---
 
+## 🙏 Attribution and Local Changes
+
+**Full credit for the design and implementation of Analytics Hub belongs to
+[Amirhossein Dehghanazar](https://github.com/AmirhosseinDehghanazar), the
+author of the
+[original `analytics-hub` project](https://github.com/AmirhosseinDehghanazar/analytics-hub).**
+
+I, Behzad Mehrtash, cloned the author's code and deployed it for my own use. I
+do not claim authorship of the original project. My changes are limited to
+personal deployment and operation, including configuring the repositories to
+track, collecting my analytics data, and adding this attribution. For the
+upstream project, documentation, and future development, please visit the
+original repository.
+
+The original copyright notice and MIT permission notice are preserved in
+[LICENSE](LICENSE). A plain-language deployment notice is also available in
+[NOTICE](NOTICE).
+
+---
+
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
+The original project is licensed under the [MIT License](LICENSE), copyright
+© 2026 Amirhossein Dehghanazar. That license permits use, copying,
+modification, and distribution, provided its copyright and permission notices
+remain with copies or substantial portions of the software.
+
+This personal deployment preserves the original `LICENSE` unchanged and also
+ships that license with the deployed dashboard. The added attribution notice
+is explanatory and does not replace or alter the MIT License.

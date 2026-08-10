@@ -325,10 +325,39 @@ export default function App() {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-hairline bg-obsidian py-8 mt-12 text-center text-xs font-mono text-faint">
-        <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <span>Analytics Hub · Self-Hosted & Version-Controlled JSON Archive</span>
-          <span>Zero Telemetry · 100% Client-Side Privacy</span>
+      <footer className="border-t border-hairline bg-obsidian py-8 mt-12 text-xs font-mono text-faint">
+        <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
+          <span>
+            Original software by{" "}
+            <a
+              href="https://github.com/AmirhosseinDehghanazar"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted hover:text-amber transition-colors"
+            >
+              Amirhossein Dehghanazar
+            </a>
+            {" · "}
+            <a
+              href="https://github.com/AmirhosseinDehghanazar/analytics-hub"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted hover:text-amber transition-colors"
+            >
+              View original project ↗
+            </a>
+          </span>
+          <span>
+            Personal deployment by Behzad Mehrtash{" · "}
+            <a
+              href={`${import.meta.env.BASE_URL}LICENSE.txt`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted hover:text-amber transition-colors"
+            >
+              MIT License
+            </a>
+          </span>
         </div>
       </footer>
     </div>
