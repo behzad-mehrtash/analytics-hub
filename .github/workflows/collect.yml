@@ -28,23 +28,7 @@ jobs:
         target:
           # ✏️ GitHub Repositories
           - provider: github
-            repo: AmirhosseinDehghanazar/LinkedIn-AutoClicker-Extension
-          - provider: github
-            repo: AmirhosseinDehghanazar/Hacker-Terminal-Loading-Screen
-          - provider: github
-            repo: AmirhosseinDehghanazar/2Auth-JS
-          - provider: github
-            repo: AmirhosseinDehghanazar/3d-404-page
-
-          # ✏️ GitLab Repositories
-          - provider: gitlab
-            repo: AmirhosseinDehghaniazar/LinkedIn-AutoClicker-Extension
-          - provider: gitlab
-            repo: AmirhosseinDehghaniazar/Hacker-Terminal-Loading-Screen
-          - provider: gitlab
-            repo: AmirhosseinDehghaniazar/2Auth-JS
-          - provider: gitlab
-            repo: AmirhosseinDehghaniazar/3d-404-page
+            repo: behzad-mehrtash/chat-checkpoint-skill
 
     steps:
       - name: Checkout
