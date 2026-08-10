@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "provider": "github",
+  "repository": {
+    "provider": "github",
+    "owner": "behzad-mehrtash",
+    "name": "chat-checkpoint-skill",
+    "fullName": "behzad-mehrtash/chat-checkpoint-skill",
+    "description": "Portable append-only project chat memory and checkpoints for Claude and Codex.",
+    "htmlUrl": "https://github.com/behzad-mehrtash/chat-checkpoint-skill",
+    "homepage": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "createdAt": "2026-08-02T14:48:57Z",
+    "defaultBranch": "master",
+    "trackingSince": "2026-08-10T08:39:58.047Z"
+  },
+  "lastSyncedAt": "2026-08-10T08:39:58.047Z",
+  "lastSyncStatus": "ok",
+  "lastSyncError": null,
+  "daily": {
+    "clones": {
+      "2026-07-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-02": {
+        "count": 8,
+        "uniques": 8
+      },
+      "2026-08-03": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-08-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-06": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-07": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-08-08": {
+        "count": 0,
+        "uniques": 0
+      }
+    },
+    "views": {
+      "2026-07-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-07-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-02": {
+        "count": 27,
+        "uniques": 1
+      },
+      "2026-08-03": {
+        "count": 8,
+        "uniques": 1
+      },
+      "2026-08-04": {
+        "count": 4,
+        "uniques": 1
+      },
+      "2026-08-05": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-08-06": {
+        "count": 4,
+        "uniques": 1
+      },
+      "2026-08-07": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-08": {
+        "count": 3,
+        "uniques": 1
+      }
+    }
+  },
+  "repoStats": [
+    {
+      "date": "2026-08-10",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "openIssues": 0,
+      "openPRs": 0
+    }
+  ],
+  "releases": [],
+  "referrerSnapshots": [
+    {
+      "collectedAt": "2026-08-10T08:39:58.047Z",
+      "items": [
+        {
+          "referrer": "github.com",
+          "count": 36,
+          "uniques": 1
+        }
+      ]
+    }
+  ],
+  "contentSnapshots": [
+    {
+      "collectedAt": "2026-08-10T08:39:58.047Z",
+      "items": [
+        {
+          "path": "/behzad-mehrtash/chat-checkpoint-skill",
+          "title": "Overview",
+          "count": 17,
+          "uniques": 1
+        },
+        {
+          "path": "/behzad-mehrtash/chat-checkpoint-skill/pulse",
+          "title": "/pulse",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/behzad-mehrtash/AISkills",
+          "title": "Overview",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/behzad-mehrtash/chat-checkpoint-skill/graphs/traffic",
+          "title": "/graphs/traffic",
+          "count": 5,
+          "uniques": 1
+        }
+      ]
+    }
+  ],
+  "stargazers": []
+}
