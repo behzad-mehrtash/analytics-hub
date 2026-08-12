@@ -6,7 +6,7 @@
     "owner": "behzad-mehrtash",
     "name": "cohort-vis",
     "fullName": "behzad-mehrtash/cohort-vis",
-    "description": null,
+    "description": "Generate tested cohort retention matrices, heatmaps, and line charts from raw event logs—with forward and backward analysis via Python or CLI.",
     "htmlUrl": "https://github.com/behzad-mehrtash/cohort-vis",
     "homepage": null,
     "language": "Python",
@@ -15,7 +15,7 @@
     "defaultBranch": "main",
     "trackingSince": "2026-08-12T06:59:55.387Z"
   },
-  "lastSyncedAt": "2026-08-12T06:59:55.387Z",
+  "lastSyncedAt": "2026-08-12T07:16:50.458Z",
   "lastSyncStatus": "ok",
   "lastSyncError": null,
   "daily": {
@@ -151,11 +151,19 @@
     {
       "collectedAt": "2026-08-12T06:59:55.387Z",
       "items": []
+    },
+    {
+      "collectedAt": "2026-08-12T07:16:50.458Z",
+      "items": []
     }
   ],
   "contentSnapshots": [
     {
       "collectedAt": "2026-08-12T06:59:55.387Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-08-12T07:16:50.458Z",
       "items": []
     }
   ],
