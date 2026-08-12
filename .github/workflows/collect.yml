@@ -29,6 +29,8 @@ jobs:
           # ✏️ GitHub Repositories
           - provider: github
             repo: behzad-mehrtash/chat-checkpoint-skill
+          - provider: github
+            repo: behzad-mehrtash/cohort-vis
 
     steps:
       - name: Checkout
