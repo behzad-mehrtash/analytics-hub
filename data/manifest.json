@@ -6,6 +6,12 @@
       "slug": "behzad-mehrtash/chat-checkpoint-skill",
       "dirName": "github-behzad-mehrtash-chat-checkpoint-skill",
       "dataPath": "data/github-behzad-mehrtash-chat-checkpoint-skill/history.json"
+    },
+    {
+      "provider": "github",
+      "slug": "behzad-mehrtash/cohort-vis",
+      "dirName": "github-behzad-mehrtash-cohort-vis",
+      "dataPath": "data/github-behzad-mehrtash-cohort-vis/history.json"
     }
   ]
 }
