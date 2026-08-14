@@ -15,7 +15,7 @@
     "defaultBranch": "main",
     "trackingSince": "2026-08-12T06:59:55.387Z"
   },
-  "lastSyncedAt": "2026-08-13T18:56:17.179Z",
+  "lastSyncedAt": "2026-08-14T01:25:54.392Z",
   "lastSyncStatus": "ok",
   "lastSyncError": null,
   "daily": {
@@ -160,6 +160,14 @@
       "watchers": 0,
       "openIssues": 0,
       "openPRs": 0
+    },
+    {
+      "date": "2026-08-14",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "openIssues": 0,
+      "openPRs": 0
     }
   ],
   "releases": [],
@@ -204,6 +212,16 @@
     },
     {
       "collectedAt": "2026-08-13T18:56:17.179Z",
+      "items": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "collectedAt": "2026-08-14T01:25:54.392Z",
       "items": [
         {
           "referrer": "github.com",
@@ -261,6 +279,23 @@
     },
     {
       "collectedAt": "2026-08-13T18:56:17.179Z",
+      "items": [
+        {
+          "path": "/behzad-mehrtash/cohort-vis",
+          "title": "Overview",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/behzad-mehrtash/cohort-vis/actions/workflows/ci.yml",
+          "title": "/actions/workflows/ci.yml",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "collectedAt": "2026-08-14T01:25:54.392Z",
       "items": [
         {
           "path": "/behzad-mehrtash/cohort-vis",
