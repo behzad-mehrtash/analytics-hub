@@ -6,6 +6,8 @@ on:
     - cron: "0 */6 * * *"
   push:
     branches: [main]
+    paths-ignore:
+      - "data/**"
   workflow_dispatch: {} # "Sync now" from the Actions tab
 
 permissions:
@@ -158,5 +160,5 @@ jobs:
             echo "No changes to commit — skipping."
             exit 0
           fi
-          git commit -m "chore(analytics): sync traffic data [skip ci]"
+          git commit -m "chore(analytics): sync traffic data"
           git push
