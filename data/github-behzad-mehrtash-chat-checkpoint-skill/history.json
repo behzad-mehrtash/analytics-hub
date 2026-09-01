@@ -15,7 +15,7 @@
     "defaultBranch": "master",
     "trackingSince": "2026-08-10T08:39:58.047Z"
   },
-  "lastSyncedAt": "2026-09-01T03:11:57.436Z",
+  "lastSyncedAt": "2026-09-01T10:58:14.858Z",
   "lastSyncStatus": "ok",
   "lastSyncError": null,
   "daily": {
@@ -163,6 +163,10 @@
       "2026-08-30": {
         "count": 1,
         "uniques": 1
+      },
+      "2026-08-31": {
+        "count": 0,
+        "uniques": 0
       }
     },
     "views": {
@@ -307,6 +311,10 @@
         "uniques": 0
       },
       "2026-08-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-08-31": {
         "count": 0,
         "uniques": 0
       }
@@ -501,16 +509,6 @@
   "releases": [],
   "referrerSnapshots": [
     {
-      "collectedAt": "2026-08-15T18:20:33.671Z",
-      "items": [
-        {
-          "referrer": "github.com",
-          "count": 37,
-          "uniques": 1
-        }
-      ]
-    },
-    {
       "collectedAt": "2026-08-16T00:59:27.905Z",
       "items": [
         {
@@ -972,40 +970,15 @@
     },
     {
       "collectedAt": "2026-09-01T03:11:57.436Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-09-01T10:58:14.858Z",
       "items": []
     }
   ],
   "contentSnapshots": [
     {
-      "collectedAt": "2026-08-15T18:20:33.671Z",
-      "items": [
-        {
-          "path": "/behzad-mehrtash/chat-checkpoint-skill",
-          "title": "Overview",
-          "count": 18,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/chat-checkpoint-skill/pulse",
-          "title": "/pulse",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/AISkills",
-          "title": "Overview",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/chat-checkpoint-skill/graphs/traffic",
-          "title": "/graphs/traffic",
-          "count": 6,
-          "uniques": 1
-        }
-      ]
-    },
-    {
       "collectedAt": "2026-08-16T00:59:27.905Z",
       "items": [
         {
@@ -1973,6 +1946,10 @@
     },
     {
       "collectedAt": "2026-09-01T03:11:57.436Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-09-01T10:58:14.858Z",
       "items": []
     }
   ],
