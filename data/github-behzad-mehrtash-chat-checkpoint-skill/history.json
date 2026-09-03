@@ -15,7 +15,7 @@
     "defaultBranch": "master",
     "trackingSince": "2026-08-10T08:39:58.047Z"
   },
-  "lastSyncedAt": "2026-09-03T15:39:37.910Z",
+  "lastSyncedAt": "2026-09-03T20:24:47.926Z",
   "lastSyncStatus": "ok",
   "lastSyncError": null,
   "daily": {
@@ -541,16 +541,6 @@
   "releases": [],
   "referrerSnapshots": [
     {
-      "collectedAt": "2026-08-18T06:34:22.588Z",
-      "items": [
-        {
-          "referrer": "github.com",
-          "count": 37,
-          "uniques": 1
-        }
-      ]
-    },
-    {
       "collectedAt": "2026-08-18T12:35:06.183Z",
       "items": [
         {
@@ -952,40 +942,15 @@
     },
     {
       "collectedAt": "2026-09-03T15:39:37.910Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-09-03T20:24:47.926Z",
       "items": []
     }
   ],
   "contentSnapshots": [
     {
-      "collectedAt": "2026-08-18T06:34:22.588Z",
-      "items": [
-        {
-          "path": "/behzad-mehrtash/chat-checkpoint-skill",
-          "title": "Overview",
-          "count": 18,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/chat-checkpoint-skill/pulse",
-          "title": "/pulse",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/AISkills",
-          "title": "Overview",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/chat-checkpoint-skill/graphs/traffic",
-          "title": "/graphs/traffic",
-          "count": 6,
-          "uniques": 1
-        }
-      ]
-    },
-    {
       "collectedAt": "2026-08-18T12:35:06.183Z",
       "items": [
         {
@@ -1703,6 +1668,10 @@
     },
     {
       "collectedAt": "2026-09-03T15:39:37.910Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-09-03T20:24:47.926Z",
       "items": []
     }
   ],
