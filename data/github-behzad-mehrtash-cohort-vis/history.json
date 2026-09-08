@@ -15,7 +15,7 @@
     "defaultBranch": "main",
     "trackingSince": "2026-08-12T06:59:55.387Z"
   },
-  "lastSyncedAt": "2026-09-08T02:42:37.461Z",
+  "lastSyncedAt": "2026-09-08T10:27:56.409Z",
   "lastSyncStatus": "ok",
   "lastSyncError": null,
   "daily": {
@@ -171,6 +171,14 @@
       "2026-09-05": {
         "count": 0,
         "uniques": 0
+      },
+      "2026-09-06": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-09-07": {
+        "count": 1,
+        "uniques": 1
       }
     },
     "views": {
@@ -323,6 +331,14 @@
         "uniques": 0
       },
       "2026-09-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-09-06": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-09-07": {
         "count": 0,
         "uniques": 0
       }
@@ -557,16 +573,6 @@
   "releases": [],
   "referrerSnapshots": [
     {
-      "collectedAt": "2026-08-22T18:21:16.196Z",
-      "items": [
-        {
-          "referrer": "github.com",
-          "count": 3,
-          "uniques": 1
-        }
-      ]
-    },
-    {
       "collectedAt": "2026-08-23T01:00:43.146Z",
       "items": [
         {
@@ -902,28 +908,15 @@
     },
     {
       "collectedAt": "2026-09-08T02:42:37.461Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-09-08T10:27:56.409Z",
       "items": []
     }
   ],
   "contentSnapshots": [
     {
-      "collectedAt": "2026-08-22T18:21:16.196Z",
-      "items": [
-        {
-          "path": "/behzad-mehrtash/cohort-vis",
-          "title": "Overview",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/behzad-mehrtash/cohort-vis/actions/workflows/ci.yml",
-          "title": "/actions/workflows/ci.yml",
-          "count": 1,
-          "uniques": 1
-        }
-      ]
-    },
-    {
       "collectedAt": "2026-08-23T01:00:43.146Z",
       "items": [
         {
@@ -1378,6 +1371,10 @@
     },
     {
       "collectedAt": "2026-09-08T02:42:37.461Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-09-08T10:27:56.409Z",
       "items": []
     }
   ],
