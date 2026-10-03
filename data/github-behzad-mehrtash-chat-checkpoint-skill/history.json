@@ -15,7 +15,7 @@
     "defaultBranch": "master",
     "trackingSince": "2026-08-10T08:39:58.047Z"
   },
-  "lastSyncedAt": "2026-10-03T15:35:50.471Z",
+  "lastSyncedAt": "2026-10-03T20:30:20.596Z",
   "lastSyncStatus": "ok",
   "lastSyncError": null,
   "daily": {
@@ -1021,10 +1021,6 @@
   "releases": [],
   "referrerSnapshots": [
     {
-      "collectedAt": "2026-09-18T10:25:58.378Z",
-      "items": []
-    },
-    {
       "collectedAt": "2026-09-18T15:41:06.528Z",
       "items": []
     },
@@ -1258,15 +1254,15 @@
     },
     {
       "collectedAt": "2026-10-03T15:35:50.471Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-10-03T20:30:20.596Z",
       "items": []
     }
   ],
   "contentSnapshots": [
     {
-      "collectedAt": "2026-09-18T10:25:58.378Z",
-      "items": []
-    },
-    {
       "collectedAt": "2026-09-18T15:41:06.528Z",
       "items": []
     },
@@ -1500,6 +1496,10 @@
     },
     {
       "collectedAt": "2026-10-03T15:35:50.471Z",
+      "items": []
+    },
+    {
+      "collectedAt": "2026-10-03T20:30:20.596Z",
       "items": []
     }
   ],
